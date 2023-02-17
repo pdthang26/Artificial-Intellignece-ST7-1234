@@ -39,5 +39,6 @@ High Latency Tolerance
 Newer GPUs: . Better flow control logic (becoming more CPU-like) . Scatter/Gather Memory Access . Don't have one-way pipelines anymore
 
 5. Based on your current knowledge and understanding, please elaborate on the development trends of artificial intelligence in the future in your view.
+
 In my opinion, artificial intelligence in the future will develop very quickly, especially in the field of high-tech products such as unmanned devices, robots that support difficult jobs in life and health.
 
